@@ -1,0 +1,31 @@
+nav {
+	display: flex;
+	background-color: #3d3df8c4;
+	height: 60px;
+	align-items: center;
+	justify-content: space-between;
+}
+
+nav > * {
+	color: white;
+}
+
+nav > h3 {
+	margin-left: 44px;
+	font-size: 1.8rem;
+	letter-spacing: 2px;
+}
+
+nav > ul {
+	display: flex;
+}
+
+.nav-link {
+	list-style: none;
+	margin: 14px;
+}
+
+.nav-link > * {
+	text-decoration: none;
+	color: white;
+}

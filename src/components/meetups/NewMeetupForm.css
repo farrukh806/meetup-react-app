@@ -1,0 +1,20 @@
+.meetup-form > form {
+	width: 30%;
+	padding: 22px;
+	text-align: center;
+	margin-top: 44px;
+	box-shadow: 2px 1px 2px 2px rgba(95, 2, 2, 0.39);
+	margin-left: auto;
+	margin-right: auto;
+}
+input {
+	height: 25px;
+	width: 100%;
+	font-size: 17px;
+	margin-bottom: 12px;
+	font-weight: bold;
+}
+
+#description {
+	font-size: 17px;
+}
